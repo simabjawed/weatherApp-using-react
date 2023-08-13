@@ -1,5 +1,5 @@
 ## Setup
 
 ```
-npm i && npm start
+npm install && npm start
 ```
