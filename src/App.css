@@ -668,10 +668,10 @@ div#txt {
   font-size: 25px;
 }
 .footer-info {
-  color: white;
+  color: #000000;
 }
 .footer-info a {
-  color: floralwhite;
+  color: #000000;
   font-weight: bold;
 }
 .hh_button {
